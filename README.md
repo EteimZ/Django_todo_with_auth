@@ -1,6 +1,6 @@
 # Django Todo list with authentication.
 
-A To-do list with User Authentication built with django.
+A To-do list app with User Authentication built with django.
 
 ## Todo
 
