@@ -20,6 +20,3 @@ urlpatterns = [
     path('', include('Site.urls')),
     path('admin/', admin.site.urls),
 ]
-
-from map.views import my_customized_server_error
-handler500 = my_customized_server_error
